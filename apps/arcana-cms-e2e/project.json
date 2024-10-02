@@ -1,0 +1,9 @@
+{
+  "name": "arcana-cms-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/arcana-cms-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["arcana-cms"],
+  "// targets": "to see all targets run: nx show project arcana-cms-e2e --web",
+  "targets": {}
+}
